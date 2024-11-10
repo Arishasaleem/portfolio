@@ -1,0 +1,23 @@
+{
+    "courses":[
+    {
+        "id": 1,
+        "title" : "45 question",
+        "description" : "Its a challenge of 45 question of typescript with basic coding",
+        "href" : "https://github.com/Arishasaleem/45-questions.git"
+    },
+    {
+        "id" : 2,
+        "title" : "simple calculator",
+        "description" : "its a basic design of calculator, u can use for daily use",
+         "href" : "https://github.com/Arishasaleem/simple-used-calculator.git"
+    },
+    {
+        "id" : 3,
+        "title" : "website figma",
+        "description" : "its a website just like figma but the content is change",
+        "href" : "https://github.com/Arishasaleem/figmaa.git"
+    }
+
+    ]
+}
